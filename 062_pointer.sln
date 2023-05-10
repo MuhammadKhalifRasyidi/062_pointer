@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "friend class", "freind clas
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "friend class 2", "friend class 2\friend class 2.vcxproj", "{28DD4EF9-B82B-4021-AF23-B30DBA73DD40}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "friend class 3", "friend class 3\friend class 3.vcxproj", "{D1C7A642-15BF-4F88-9076-E634CC19999B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{28DD4EF9-B82B-4021-AF23-B30DBA73DD40}.Release|x64.Build.0 = Release|x64
 		{28DD4EF9-B82B-4021-AF23-B30DBA73DD40}.Release|x86.ActiveCfg = Release|Win32
 		{28DD4EF9-B82B-4021-AF23-B30DBA73DD40}.Release|x86.Build.0 = Release|Win32
+		{D1C7A642-15BF-4F88-9076-E634CC19999B}.Debug|x64.ActiveCfg = Debug|x64
+		{D1C7A642-15BF-4F88-9076-E634CC19999B}.Debug|x64.Build.0 = Debug|x64
+		{D1C7A642-15BF-4F88-9076-E634CC19999B}.Debug|x86.ActiveCfg = Debug|Win32
+		{D1C7A642-15BF-4F88-9076-E634CC19999B}.Debug|x86.Build.0 = Debug|Win32
+		{D1C7A642-15BF-4F88-9076-E634CC19999B}.Release|x64.ActiveCfg = Release|x64
+		{D1C7A642-15BF-4F88-9076-E634CC19999B}.Release|x64.Build.0 = Release|x64
+		{D1C7A642-15BF-4F88-9076-E634CC19999B}.Release|x86.ActiveCfg = Release|Win32
+		{D1C7A642-15BF-4F88-9076-E634CC19999B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
